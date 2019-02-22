@@ -16,6 +16,14 @@ module.exports = function(environment) {
         Date: false
       }
     },
+    firebase: {
+      apiKey: "AIzaSyBb89TInsrAqAaPTpQNyipAOc8dkNLod7A",
+      authDomain: "chat-app-a167d.firebaseapp.com",
+      databaseURL: "https://chat-app-a167d.firebaseio.com",
+      projectId: "chat-app-a167d",
+      storageBucket: "chat-app-a167d.appspot.com",
+      messagingSenderId: "597029736769"
+    },
 
     APP: {
       // Here you can pass flags/options to your application instance
